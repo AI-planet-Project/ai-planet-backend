@@ -95,7 +95,7 @@ Start the FastAPI application with:
 uvicorn app.main:app --reload
 ```
 
-The application will be available at `http://127.0.0.1:8000`.
+The application will be available at `https://pdf-ai-backend.onrender.com/`.
 
 ## API Endpoints
 
